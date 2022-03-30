@@ -19,7 +19,21 @@ $(function () {
     $('#slick-slide-control00').css('font-size', '24px');
     $('#slick-slide-control01').css('font-size', '24px');
 
+    
+    
+    $('#top-btn').click(function () {
+        $('html, body').animate({
+            'scrollTop': 0
+        }, 500);
+    });
 
+    $('header a').click(function () {
+        var id = $(this).attr('href');
+        var position = $(id).offset().top;
+        $('html, body').animate({
+            'scrollTop': position
+        }, 500);
+    });
 
 
 
