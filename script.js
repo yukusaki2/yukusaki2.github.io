@@ -4,8 +4,8 @@ $(function () {
 
     $(".slider").slick({
         speed: 1000,
-        prevArrow: '<img src="/img/menu_btn_left.png" class="slide-arrow prev-arrow">',
-        nextArrow: '<img src="/img/menu_btn_right.png" class="slide-arrow next-arrow">',
+        prevArrow: '<img src="https://github.com/yukusaki2/yukusaki2.github.io/blob/main/menu_btn_left.png?raw=true" class="slide-arrow prev-arrow">',
+        nextArrow: '<img src="https://github.com/yukusaki2/yukusaki2.github.io/blob/main/menu_btn_right.png?raw=true" class="slide-arrow next-arrow">',
         dots: true,
     });
 
