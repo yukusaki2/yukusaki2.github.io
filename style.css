@@ -1123,11 +1123,13 @@ _:-ms-lang(x)::-ms-backdrop,
     }
     
     .next-arrow{
-        top: 617px;
+        top: 607px;
+        width: 9%;
     }
 
     .prev-arrow{
-        top: 617px;
+        top: 607px;
+        width: 9%;
     }
     
     .slick-dots{
