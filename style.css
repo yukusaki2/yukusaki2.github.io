@@ -225,7 +225,7 @@ body {
 
 .concept_text::after {
     content: "";
-    background-image: url(/img/footprints.png);
+    background-image: url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/footprints.png?raw=true');
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
@@ -253,7 +253,7 @@ body {
 
 .concept_text2::after {
     content: "";
-    background-image: url(/img/footprints.png);
+    background-image: url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/footprints.png?raw=true');
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
@@ -541,7 +541,7 @@ _:-ms-lang(x)::-ms-backdrop,
 /* フッター */
 
 .footer {
-    background-image: url(../img/footer-100_2.jpg);
+    background-image: url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/footer-100_2.jpg?raw=true');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -959,7 +959,7 @@ _:-ms-lang(x)::-ms-backdrop,
 /* スマホ */
 @media screen and (max-width: 599px) {
     /* .pc_main_visual_wrap{
-        background: linear-gradient(to bottom, transparent 0%, transparent 70%, #000 100%), url('../img/pc_main_visual.png');
+        background: linear-gradient(to bottom, transparent 0%, transparent 70%, #000 100%), url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual.png?raw=true');
     } */
 
     .paper_vertical {
@@ -975,7 +975,7 @@ _:-ms-lang(x)::-ms-backdrop,
     }
 
     .pc_main_visual_wrap {
-        background: linear-gradient(to bottom, transparent 0%, transparent 54%, #0f0f0f 76%), url(../img/pc_main_visual.png);
+        background: linear-gradient(to bottom, transparent 0%, transparent 54%, #0f0f0f 76%), url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual.png?raw=true');
     }
 
     .gnav {
