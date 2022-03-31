@@ -1095,7 +1095,7 @@ _:-ms-lang(x)::-ms-backdrop,
     /* コンタクト */
     .contact_img {
         width: 170px;
-        margin-right: 8px;
+        margin-right: 10px;
     }
 
     .contact_tel {
