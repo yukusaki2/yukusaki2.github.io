@@ -17,7 +17,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual.png?raw=true');
+    background-image: url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual2.png?raw=true');
     /* background: linear-gradient(to bottom, transparent 0%, transparent 70%, #000 100%), url('../img/pc_main_visual.png'); */
     height: 769px;
 }
@@ -963,9 +963,6 @@ _:-ms-lang(x)::-ms-backdrop,
 
 /* スマホ */
 @media screen and (max-width: 599px) {
-    /* .pc_main_visual_wrap{
-        background: linear-gradient(to bottom, transparent 0%, transparent 70%, #000 100%), url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual.png?raw=true');
-    } */
 
     .paper_vertical {
         display: block;
@@ -980,7 +977,8 @@ _:-ms-lang(x)::-ms-backdrop,
     }
 
     .pc_main_visual_wrap {
-        background: linear-gradient(to bottom, transparent 0%, transparent 54%, #0f0f0f 76%), url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual.png?raw=true');
+        background: linear-gradient(to bottom, transparent 0%, transparent 54%, #0f0f0f 76%), url('https://github.com/yukusaki2/yukusaki2.github.io/blob/main/pc_main_visual2.png?raw=true');
+        background-position: top 60% right 51%;
     }
 
     .gnav {
