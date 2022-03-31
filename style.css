@@ -1033,7 +1033,7 @@ _:-ms-lang(x)::-ms-backdrop,
     }
 
     .h2ttl_2margin {
-        margin: 2px 0px 129px;
+        margin: 2px 0px 107px;
     }
 
     .paper_wrap {
@@ -1136,12 +1136,24 @@ _:-ms-lang(x)::-ms-backdrop,
     }
     
     .slick-dots{
-        margin: -370px 0 330px 0;
+        margin: -336px 0 330px 0;
         line-height: 1.5;
     }
 
     .h2ttl_3margin{
         margin: 401px 0px 62px;
+    }
+    
+    .slick-dots li:nth-of-type(1) button:before {
+    font-size: 19px;
+    }
+
+    .slick-dots li:nth-of-type(2) button:before {
+        font-size: 19px;
+    }
+
+    .slick-dots li:nth-of-type(3) button:before {
+        font-size: 19px;
     }
     
         
