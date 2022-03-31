@@ -1115,10 +1115,12 @@ _:-ms-lang(x)::-ms-backdrop,
     }
 
     .slider-text{
-        font-size: 13px;
-        width: 270px;
+        font-size: 15px;
+        width: 232px;
         margin: 0 auto;
-        margin-top: 29px;
+        margin-top: 15px;
+        padding-left: 6px;
+        line-height: 1.7;
     }
 
     .slick-track{
@@ -1136,7 +1138,7 @@ _:-ms-lang(x)::-ms-backdrop,
     }
     
     .slick-dots{
-        margin: -336px 0 330px 0;
+        margin: -404px 0 330px 0;
         line-height: 1.5;
     }
 
