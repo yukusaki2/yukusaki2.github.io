@@ -34,6 +34,13 @@ $(function () {
             'scrollTop': position
         }, 500);
     });
+    
+    
+    
+    if (window.matchMedia("(max-width: 599px)").matches) {
+        $('#slick-slide-control00').css('font-size', '19px');
+        $('#slick-slide-control01').css('font-size', '19px');
+    }
 
 
 
