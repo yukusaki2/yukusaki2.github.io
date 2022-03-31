@@ -1008,9 +1008,9 @@ _:-ms-lang(x)::-ms-backdrop,
     }
 
     .concept_text_wrap1 img {
-        width: 93%;
+        width: 84%;
         margin: initial;
-        float: left;
+        margin: 0 auto;
     }
 
     .concept_text::after {
