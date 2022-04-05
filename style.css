@@ -1140,7 +1140,7 @@ _:-ms-lang(x)::-ms-backdrop,
     }
     
     .slick-dots{
-        mmargin: -353px 0 330px 0;
+        margin: -353px 0 330px 0;
         line-height: 1.5;
     }
 
